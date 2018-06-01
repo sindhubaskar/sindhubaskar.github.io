@@ -1,1 +1,6 @@
-.hline { width:100%; height:1px; background: #fff }
+hr {
+   border:thin;
+   color:blue;
+   height:2px;
+   width:50%
+}
