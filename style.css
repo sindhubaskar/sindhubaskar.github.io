@@ -1,7 +1,14 @@
-.h1 {
-	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color: red;
-  
-  
+.info{
+	width:780px;
+	margin:auto;
+	font-size:16px;
+}
+.image{
+	height:250px;
+}
+.infodetail{
+	float:left;
+}
+.imagedetail{
+	float:right;
 }
