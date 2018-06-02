@@ -4,14 +4,14 @@
 	font-size:16px;
 }
 .image{
-	height:200px;
+	height:150px;
 }
 .infodetail{
 	float:left;
 }
 .imagedetail{
 	float:right;
-	height:150px;
+	
 }
 .obj{
 	float:left;
